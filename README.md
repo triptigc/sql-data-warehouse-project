@@ -40,7 +40,7 @@ Layer	Purpose	Description
 ----
 
 ## Technical details:
-**Database**: SQL Server (or specify your RDBMS — MySQL, PostgreSQL, etc.)
+**Database**:  MySQL
 **ETL Approach**: Batch processing, full load with truncate and insert
 **Data Modeling**: Star schema 
 **Tools**: Draw.io for data architecture and modeling diagrams
